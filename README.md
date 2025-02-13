@@ -12,7 +12,7 @@ Hi there, I'm Norbert! 👋
   - Project Management: Agile, Scrum, SugarCRM
 
 🚀 Projects & Portfolio
-  - Check out my work: norbert-portfolio.netlify.app
+  - Check out my work: [norbert-portfolio.netlify.app](https://norbert-portfolio.netlify.app/)
 
 📫 Let's Connect
 
