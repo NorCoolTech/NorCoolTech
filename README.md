@@ -1,21 +1,23 @@
-### Hi there, I'm Norbert! 👋  
+Hi there, I'm Norbert! 👋
 
-💻 I'm a Project Manager and Report Automation Specialist with almost 10 years of experience in automating reporting services. Before that, I worked for 4 years as a CRM/IT Administrator. 
+💻 Project Manager & Report Automation Specialist with nearly 10 years of experience in automating reporting services. Before that, I worked for 4 years as a CRM/IT Administrator, managing databases, system integrations, and optimizing internal processes.
 
-🌱 In my free time, I enjoy learning Front-End Development, especially React.js and modern web technologies.  
+🌱 Currently Exploring
+In my free time, I'm expanding my Front-End Development skills, focusing on React.js and modern web technologies. I enjoy building intuitive user interfaces and learning best practices for scalable applications.
 
-🔧 Technologies & Tools   
-- Front-End Development: HTML, CSS, JavaScript, React  
-- Project Management: Agile, Scrum, SugarCRM  
+🔧 Technologies & Tools
 
-🚀 Projects & Portfolio  
-- Check out my portfolio: https://norbert-portfolio.netlify.app  
+Front-End Development: HTML, CSS, JavaScript, React
+Automation & Reporting: Report automation, data visualization, workflow optimization
+Project Management: Agile, Scrum, SugarCRM
+🚀 Projects & Portfolio
+Check out my work: norbert-portfolio.netlify.app
 
-### 📫 How to Reach Me  
-- LinkedIn: https://www.linkedin.com/in/norbertkulacin
-- Email: norbert.kulacin@gmail.com  
+📫 Let's Connect
 
-⚡ Fun fact: I love exploring new tech, optimizing workflows, and automating tedious tasks!  
+LinkedIn: linkedin.com/in/norbertkulacin
+Email: norbert.kulacin@gmail.com
+⚡ Fun Fact: I love exploring new tech, optimizing workflows, and automating tedious tasks to make life easier!
 
 🚀 Skills 🖥️
 
