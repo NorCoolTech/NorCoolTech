@@ -3,7 +3,7 @@ Hi there, I'm Norbert! 👋
 💻 Project Manager & Report Automation Specialist with nearly 10 years of experience in automating reporting services. Before that, I worked for 4 years as a CRM/IT Administrator, managing databases, system integrations, and optimizing internal processes.
 
 🌱 Currently Exploring
-In my free time, I'm expanding my Front-End Development skills, focusing on React.js and modern web technologies. I enjoy building intuitive user interfaces and learning best practices for scalable applications.
+  - In my free time, I'm expanding my Front-End Development skills, focusing on React.js and modern web technologies. I enjoy building intuitive user interfaces and learning best practices for scalable applications.
 
 🔧 Technologies & Tools
 
