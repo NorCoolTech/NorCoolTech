@@ -7,16 +7,17 @@ In my free time, I'm expanding my Front-End Development skills, focusing on Reac
 
 🔧 Technologies & Tools
 
-Front-End Development: HTML, CSS, JavaScript, React
-Automation & Reporting: Report automation, data visualization, workflow optimization
-Project Management: Agile, Scrum, SugarCRM
+  - Front-End Development: HTML, CSS, JavaScript, React
+  - Automation & Reporting: Report automation, data visualization, workflow optimization
+  - Project Management: Agile, Scrum, SugarCRM
+
 🚀 Projects & Portfolio
-Check out my work: norbert-portfolio.netlify.app
+  - Check out my work: norbert-portfolio.netlify.app
 
 📫 Let's Connect
 
-LinkedIn: linkedin.com/in/norbertkulacin
-Email: norbert.kulacin@gmail.com
+  - LinkedIn: linkedin.com/in/norbertkulacin
+  - Email: norbert.kulacin@gmail.com
 ⚡ Fun Fact: I love exploring new tech, optimizing workflows, and automating tedious tasks to make life easier!
 
 🚀 Skills 🖥️
