@@ -16,7 +16,7 @@ Hi there, I'm Norbert! 👋
 
 📫 Let's Connect
 
-  - LinkedIn: linkedin.com/in/norbertkulacin
+  - LinkedIn: [linkedin.com/in/norbertkulacin](https://www.linkedin.com/in/norbertkulacin/)
   - Email: norbert.kulacin@gmail.com
 ⚡ Fun Fact: I love exploring new tech, optimizing workflows, and automating tedious tasks to make life easier!
 
